@@ -1,0 +1,29 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : 29-Dec-2022, 8:27:53 am
+    Author     : Priyank Patel
+*/
+
+.primary-background{
+    background-color: #17C3B2 !important 
+}
+
+/*.dropdown-item:hover{
+    background: #64b5f6 !important
+}*/
+
+.nav-link:hover{
+    color: white!important;
+}
+
+.card{
+    margin: 1rem;
+}
+.active_{
+    background: #17C3B2 !important 
+}
+
+

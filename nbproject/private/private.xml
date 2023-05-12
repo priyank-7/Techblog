@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Priyank%20Patel/Documents/NetBeansProjects/TechBlog/src/java/com/tech/blog/servlets/AddPostServlet.java</file>
+            <file>file:/C:/Users/Priyank%20Patel/Documents/NetBeansProjects/TechBlog/web/js/myjs.js</file>
+            <file>file:/C:/Users/Priyank%20Patel/Documents/NetBeansProjects/TechBlog/src/java/com/tech/blog/dao/PostDao.java</file>
+            <file>file:/C:/Users/Priyank%20Patel/Documents/NetBeansProjects/TechBlog/src/java/com/tech/blog/servlets/EditServlet.java</file>
+            <file>file:/C:/Users/Priyank%20Patel/Documents/NetBeansProjects/TechBlog/web/show_post.jsp</file>
+            <file>file:/C:/Users/Priyank%20Patel/Documents/NetBeansProjects/TechBlog/web/Load_Page.jsp</file>
+            <file>file:/C:/Users/Priyank%20Patel/Documents/NetBeansProjects/TechBlog/src/java/com/tech/blog/dao/LikeDao.java</file>
+            <file>file:/C:/Users/Priyank%20Patel/Documents/NetBeansProjects/TechBlog/src/java/com/tech/blog/dao/CommentDao.java</file>
+            <file>file:/C:/Users/Priyank%20Patel/Documents/NetBeansProjects/TechBlog/src/java/com/tech/blog/dao/UserDao.java</file>
+            <file>file:/C:/Users/Priyank%20Patel/Documents/NetBeansProjects/TechBlog/web/User_Account.jsp</file>
+            <file>file:/C:/Users/Priyank%20Patel/Documents/NetBeansProjects/TechBlog/src/java/com/tech/blog/entities/Category.java</file>
+            <file>file:/C:/Users/Priyank%20Patel/Documents/NetBeansProjects/TechBlog/src/java/com/tech/blog/entities/User.java</file>
+            <file>file:/C:/Users/Priyank%20Patel/Documents/NetBeansProjects/TechBlog/web/Profile_.jsp</file>
+            <file>file:/C:/Users/Priyank%20Patel/Documents/NetBeansProjects/TechBlog/src/java/com/tech/blog/entities/Posts.java</file>
+            <file>file:/C:/Users/Priyank%20Patel/Documents/NetBeansProjects/TechBlog/web/pics/Load_Comment.jsp</file>
+            <file>file:/C:/Users/Priyank%20Patel/Documents/NetBeansProjects/TechBlog/src/java/com/tech/blog/servlets/LikeServlet.java</file>
+            <file>file:/C:/Users/Priyank%20Patel/Documents/NetBeansProjects/TechBlog/src/java/com/tech/blog/helper/ConnectionProvider.java</file>
+            <file>file:/C:/Users/Priyank%20Patel/Documents/NetBeansProjects/TechBlog/src/java/com/tech/blog/entities/Comment.java</file>
+        </group>
+    </open-files>
+</project-private>
